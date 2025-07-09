@@ -19,7 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanaroyer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
-### 🕹️ Pac-Man devorando minhas contribuições!
+
 
 <p align="center">
   <picture>

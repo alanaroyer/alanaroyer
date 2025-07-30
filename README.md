@@ -1,4 +1,4 @@
-## Alana Royer <br> **`Desenvolvedora Back End`**
+## Alana Royer <br> **`Back End Developer`**
 
 <div> 
   <a href="https://www.instagram.com/alana_royer?igsh=MTBmeG1jc2Uya3o2bg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

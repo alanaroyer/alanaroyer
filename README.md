@@ -9,7 +9,7 @@
 ---
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs,py,java,html,css,javascript,mysql" />
+  <img src="https://skillicons.dev/icons?i=cs,py,java,html,css,javascript" />
 </div>
 
 ---
